@@ -9,3 +9,11 @@ node_modules
 .idea
 coverage
 .booster
+local.sh
+*.tfstate
+*.backup
+/errors.log
+*.zip
+cdktf.out
+.DS_STORE
+.deploy
